@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Часы</string>
+    <string name="dark_theme">Темная тема</string>
+    <string name="monet_theme">Monet тема</string>
+</resources>

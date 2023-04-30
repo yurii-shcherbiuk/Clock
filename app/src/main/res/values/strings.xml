@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="monet_theme">Monet theme</string>
+</resources>
